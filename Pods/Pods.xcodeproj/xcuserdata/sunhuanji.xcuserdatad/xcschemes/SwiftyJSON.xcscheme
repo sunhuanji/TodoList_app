@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "654B26481DDB03D6000C58ED"
-               BuildableName = "TodoList_app.app"
-               BlueprintName = "TodoList_app"
-               ReferencedContainer = "container:TodoList_app.xcodeproj">
+               BlueprintIdentifier = "388ADA073E7954C5DAF29E1DDE8BCB86"
+               BuildableName = "SwiftyJSON.framework"
+               BlueprintName = "SwiftyJSON"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "654B26481DDB03D6000C58ED"
-            BuildableName = "TodoList_app.app"
-            BlueprintName = "TodoList_app"
-            ReferencedContainer = "container:TodoList_app.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "654B26481DDB03D6000C58ED"
-            BuildableName = "TodoList_app.app"
-            BlueprintName = "TodoList_app"
-            ReferencedContainer = "container:TodoList_app.xcodeproj">
+            BlueprintIdentifier = "388ADA073E7954C5DAF29E1DDE8BCB86"
+            BuildableName = "SwiftyJSON.framework"
+            BlueprintName = "SwiftyJSON"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "654B26481DDB03D6000C58ED"
-            BuildableName = "TodoList_app.app"
-            BlueprintName = "TodoList_app"
-            ReferencedContainer = "container:TodoList_app.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
